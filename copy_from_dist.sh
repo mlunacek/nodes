@@ -5,6 +5,7 @@ cp ../dist/nodes_uncontrolled.html .
 cp ../dist/nodes_controlled.html index.html
 cp ../dist/bootstrap.css .
 cp ../dist/d3.min.js .
+cp ../dist/d3-scale-chromatic.v1.min.js .
 cp ../dist/jupyterapp.js .
 cp ../dist/leaflet.css .
 cp ../dist/nodes_figure.png .
